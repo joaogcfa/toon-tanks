@@ -1,0 +1,707 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "ToonTanks Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"Debug",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"Debug",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ToonTanks Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"Debug",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"DebugGame",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"DebugGame",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ToonTanks Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"DebugGame",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"Development",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"Development",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ToonTanks Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"Development",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks Win64 Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"Test",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks Win64 Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"Test",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ToonTanks Win64 Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks Win64 Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"Test",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks Win64 Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"Shipping",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks Win64 Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"Shipping",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ToonTanks Win64 Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks Win64 Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ToonTanks",
+				"Win64",
+				"Shipping",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"Debug",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"Debug",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ToonTanks IOS Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"Debug",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"DebugGame",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"DebugGame",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ToonTanks IOS DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"DebugGame",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"Development",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"Development",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ToonTanks IOS Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"Development",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"Test",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"Test",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ToonTanks IOS Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"Test",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"Shipping",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"Shipping",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ToonTanks IOS Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanks IOS Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ToonTanks",
+				"IOS",
+				"Shipping",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanksEditor Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanksEditor",
+				"Win64",
+				"Debug",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanksEditor Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanksEditor",
+				"Win64",
+				"Debug",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ToonTanksEditor Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanksEditor Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ToonTanksEditor",
+				"Win64",
+				"Debug",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanksEditor Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanksEditor",
+				"Win64",
+				"DebugGame",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanksEditor Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanksEditor",
+				"Win64",
+				"DebugGame",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ToonTanksEditor Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanksEditor Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ToonTanksEditor",
+				"Win64",
+				"DebugGame",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanksEditor Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanksEditor",
+				"Win64",
+				"Development",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanksEditor Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ToonTanksEditor",
+				"Win64",
+				"Development",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ToonTanksEditor Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "ToonTanksEditor Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ToonTanksEditor",
+				"Win64",
+				"Development",
+				"D:\\Unreal\\toon-tanks\\ToonTanks\\ToonTanks.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "D:\\Games\\UE_5.0"
+			}
+		}
+	]
+}
