@@ -20,16 +20,13 @@ protected:
 	virtual void BeginPlay() override;
 
 private:
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"), Category = "Pawn Components")
 	class UCapsuleComponent *CapsuleComp;
-
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"), Category = "Pawn Components")
 	UStaticMeshComponent *BaseMesh;
-
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"), Category = "Pawn Components")
 	UStaticMeshComponent *TurretMesh;
-
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"), Category = "Pawn Components")
 	USceneComponent *ProjectileSpawnPoint;
 
 public:

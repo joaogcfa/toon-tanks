@@ -7,7 +7,11 @@
         "Includes": [
             "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
             "d:\\unreal\\toon-tanks\\toontanks\\source\\toontanks\\basepawn.h",
-            "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\basepawn.generated.h"
+            "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\basepawn.generated.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\capsulecomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
