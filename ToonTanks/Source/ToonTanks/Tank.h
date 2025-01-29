@@ -27,5 +27,11 @@ private:
 	UPROPERTY(VisibleAnywhere, Category = "Components")
 	class UCameraComponent *Camera;
 
+	UPROPERTY(EditAnywhere, Category = "Movement")
+	float Speed = 200.f;
+	UPROPERTY(EditAnywhere, Category = "Movement")
+	float TurnRate = 200.f;
+
 	void Move(float Value);
+	void Turn(float Value);
 };

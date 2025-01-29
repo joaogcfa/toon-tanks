@@ -34,9 +34,11 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "D:\Unreal\toon-tanks\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Unreal\toon-tanks\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\ToonTanks.cpp.obj"
 "D:\Unreal\toon-tanks\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\BasePawn.cpp.obj"
+"D:\Unreal\toon-tanks\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\Tank.cpp.obj"
+"D:\Unreal\toon-tanks\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\ToonTanks.cpp.obj"
 "D:\Unreal\toon-tanks\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\BasePawn.gen.cpp.obj"
+"D:\Unreal\toon-tanks\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\Tank.gen.cpp.obj"
 "D:\Unreal\toon-tanks\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\ToonTanks.init.gen.cpp.obj"
 "D:\Unreal\toon-tanks\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
