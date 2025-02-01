@@ -18,6 +18,8 @@ public:
 protected:
 	void RotateTurret(FVector LookAtTarget);
 
+	void Fire();
+
 private:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"), Category = "Pawn Components")
 	class UCapsuleComponent *CapsuleComp;
