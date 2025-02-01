@@ -22,7 +22,11 @@
             "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
             "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
             "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
-            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h"
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\experimental\\chaos\\public\\chaos\\debugdrawqueue.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\experimental\\chaos\\public\\chaos\\chaosdebugdrawdeclares.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\experimental\\chaos\\public\\chaos\\geometryparticlesfwd.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\experimental\\chaos\\public\\chaos\\aabb.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
