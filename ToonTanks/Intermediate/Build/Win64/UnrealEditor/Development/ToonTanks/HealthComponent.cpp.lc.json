@@ -7,7 +7,22 @@
         "Includes": [
             "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
             "d:\\unreal\\toon-tanks\\toontanks\\source\\toontanks\\healthcomponent.h",
-            "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\healthcomponent.generated.h"
+            "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\healthcomponent.generated.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h",
+            "d:\\unreal\\toon-tanks\\toontanks\\source\\toontanks\\toontanksgamemode.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\toontanksgamemode.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

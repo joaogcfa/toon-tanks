@@ -37,7 +37,7 @@ void EmptyLinkFunctionForGeneratedCodeToonTanksGameMode() {}
 	};
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AToonTanksGameMode_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
+		{ "Comment", "/**\n *\n */" },
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering HLOD WorldPartition DataLayers Transformation" },
 		{ "IncludePath", "ToonTanksGameMode.h" },
 		{ "ModuleRelativePath", "ToonTanksGameMode.h" },
@@ -80,9 +80,9 @@ void EmptyLinkFunctionForGeneratedCodeToonTanksGameMode() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ToonTanks_Source_ToonTanks_ToonTanksGameMode_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AToonTanksGameMode, AToonTanksGameMode::StaticClass, TEXT("AToonTanksGameMode"), &Z_Registration_Info_UClass_AToonTanksGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AToonTanksGameMode), 1673993784U) },
+		{ Z_Construct_UClass_AToonTanksGameMode, AToonTanksGameMode::StaticClass, TEXT("AToonTanksGameMode"), &Z_Registration_Info_UClass_AToonTanksGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AToonTanksGameMode), 4208203381U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ToonTanks_Source_ToonTanks_ToonTanksGameMode_h_3061805417(TEXT("/Script/ToonTanks"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ToonTanks_Source_ToonTanks_ToonTanksGameMode_h_2449964040(TEXT("/Script/ToonTanks"),
 		Z_CompiledInDeferFile_FID_ToonTanks_Source_ToonTanks_ToonTanksGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_ToonTanks_Source_ToonTanks_ToonTanksGameMode_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
