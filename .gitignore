@@ -1,5 +1,7 @@
-# Visual Studio 2015 user specific files
+# Visual Studio 2015+ user specific files
 .vs/
+*.vcxproj.user
+*.vcxproj.filters
 
 # Compiled Object files
 *.slo
@@ -72,3 +74,36 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Additional Unreal Engine specific ignores
+*.log
+*.temp
+*.tmp
+*.bak
+*.backup
+*.dmp
+*.ipch
+*.pdb
+*.obj
+*.log
+*.vspscc
+*.vssscc
+*.orig
+*.class
+*.swp
+*.DS_Store
+*.sublime-workspace
+*.sublime-project
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.pidb
+*.userprefs
+*.user
+*.rsuser
+*.rsuser
+*.suo
+*.ncb
+*.sln.docstates
+*.sln.ide
