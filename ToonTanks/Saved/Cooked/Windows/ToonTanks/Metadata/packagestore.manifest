@@ -337,22 +337,6 @@
 			"ChunkId": "0125e0852ce3d3e700000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
-			"ChunkId": "7539f12095a3f0d100000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.ubulk",
-			"ChunkId": "7539f12095a3f0d100000002"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset",
-			"ChunkId": "7a7173cfb4095b9f00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk",
-			"ChunkId": "7a7173cfb4095b9f00000002"
-		},
-		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset",
 			"ChunkId": "6a3b7a697242e13400000001"
 		},
@@ -453,6 +437,22 @@
 			"ChunkId": "9acae5549f0219b000000002"
 		},
 		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
+			"ChunkId": "7539f12095a3f0d100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.ubulk",
+			"ChunkId": "7539f12095a3f0d100000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset",
+			"ChunkId": "7a7173cfb4095b9f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk",
+			"ChunkId": "7a7173cfb4095b9f00000002"
+		},
+		{
 			"Path": "Engine/Content/EngineMeshes/Sphere.uasset",
 			"ChunkId": "f421d8f857b9ed0300000001"
 		},
@@ -493,20 +493,48 @@
 			"ChunkId": "be0d3889a05f194e00000001"
 		},
 		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
+			"ChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
+			"ChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
+			"ChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset",
+			"ChunkId": "488ea3a585ed55d300000001"
+		},
+		{
+			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+			"ChunkId": "72ff6427f1042ed200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset",
+			"ChunkId": "048e6fb25437845700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset",
+			"ChunkId": "344ace582a05a9a500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset",
+			"ChunkId": "a78221ddf916516d00000001"
+		},
+		{
+			"Path": "ToonTanks/Content/Assets/Images/ToonTanksCover.uasset",
+			"ChunkId": "394a19ed3d49830800000001"
+		},
+		{
 			"Path": "ToonTanks/Content/Assets/Audio/Thud_Audio.uasset",
 			"ChunkId": "d57f741e41f415aa00000001"
 		},
 		{
 			"Path": "ToonTanks/Content/Assets/Audio/Thud_Audio.ubulk",
 			"ChunkId": "d57f741e41f415aa00000002"
-		},
-		{
-			"Path": "ToonTanks/Content/Assets/Audio/Explode_Audio.uasset",
-			"ChunkId": "4b9f1cb311f8bb5d00000001"
-		},
-		{
-			"Path": "ToonTanks/Content/Assets/Audio/Explode_Audio.ubulk",
-			"ChunkId": "4b9f1cb311f8bb5d00000002"
 		},
 		{
 			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
@@ -649,36 +677,16 @@
 			"ChunkId": "6af2cd0505daf96e00000002"
 		},
 		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
-			"ChunkId": "7819480612024b3600000001"
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
+			"ChunkId": "c8548e53bc64ae9400000001"
 		},
 		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
-			"ChunkId": "abde94c25a5272fc00000001"
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
+			"ChunkId": "c472a8877b0ae2f900000001"
 		},
 		{
-			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
-			"ChunkId": "f95ade32d57ba98c00000001"
-		},
-		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset",
-			"ChunkId": "488ea3a585ed55d300000001"
-		},
-		{
-			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
-			"ChunkId": "72ff6427f1042ed200000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset",
-			"ChunkId": "048e6fb25437845700000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset",
-			"ChunkId": "344ace582a05a9a500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset",
-			"ChunkId": "a78221ddf916516d00000001"
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
+			"ChunkId": "2a8ace463a029fae00000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
@@ -709,20 +717,20 @@
 			"ChunkId": "4762b775bfe4b22d00000001"
 		},
 		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
-			"ChunkId": "7936cc24a0df034100000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
-			"ChunkId": "12c2c1346a8453a600000001"
-		},
-		{
 			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
 			"ChunkId": "305a1ec18dd5a4be00000001"
 		},
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
 			"ChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
+			"ChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
+			"ChunkId": "12c2c1346a8453a600000001"
 		},
 		{
 			"Path": "Engine/Content/EngineFonts/Roboto.uasset",
@@ -741,8 +749,24 @@
 			"ChunkId": "51f4a9204ba994c500000001"
 		},
 		{
-			"Path": "ToonTanks/Content/Assets/Materials/Functions/Basic/MakeSet.uasset",
-			"ChunkId": "f4c59781445c557b00000001"
+			"Path": "ToonTanks/Content/Assets/Audio/Explode_Audio.uasset",
+			"ChunkId": "4b9f1cb311f8bb5d00000001"
+		},
+		{
+			"Path": "ToonTanks/Content/Assets/Audio/Explode_Audio.ubulk",
+			"ChunkId": "4b9f1cb311f8bb5d00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
+			"ChunkId": "2d5d52b0905803e600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
+			"ChunkId": "2d5d52b0905803e600000002"
 		},
 		{
 			"Path": "Engine/Content/EngineSky/T_Sky_Blue.uasset",
@@ -769,28 +793,8 @@
 			"ChunkId": "56d51199b9b2142a00000002"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
-			"ChunkId": "b916d415e9289b5500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
-			"ChunkId": "c8548e53bc64ae9400000001"
-		},
-		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
-			"ChunkId": "c472a8877b0ae2f900000001"
-		},
-		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
-			"ChunkId": "2a8ace463a029fae00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
-			"ChunkId": "2d5d52b0905803e600000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
-			"ChunkId": "2d5d52b0905803e600000002"
+			"Path": "ToonTanks/Content/Assets/Materials/Functions/Basic/MakeSet.uasset",
+			"ChunkId": "f4c59781445c557b00000001"
 		},
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset",
@@ -833,6 +837,10 @@
 			"ChunkId": "27d7aeddb1b7c7fc00000001"
 		},
 		{
+			"Path": "ToonTanks/Content/Blueprints/GameMode/BP_MainMenu.uasset",
+			"ChunkId": "1ea1e5bcab14982300000001"
+		},
+		{
 			"Path": "ToonTanks/Content/Assets/Materials/M_TextureBase.uasset",
 			"ChunkId": "5daf07f16bab52c400000001"
 		},
@@ -855,6 +863,10 @@
 		{
 			"Path": "ToonTanks/Content/Assets/Materials/M_EmissiveGreen_Inst.uasset",
 			"ChunkId": "4b0202464324a30b00000001"
+		},
+		{
+			"Path": "ToonTanks/Content/Blueprints/Widgets/WBP_MainMenu.uasset",
+			"ChunkId": "8010f4f72487003400000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset",
@@ -1207,6 +1219,10 @@
 		{
 			"Path": "ToonTanks/Content/Assets/Meshes/SM_Sphere.uasset",
 			"ChunkId": "ffe806f98fdfb77000000001"
+		},
+		{
+			"Path": "ToonTanks/Content/Maps/MainMenu.umap",
+			"ChunkId": "c9390903946d5a9200000001"
 		},
 		{
 			"Path": "ToonTanks/Content/Assets/Materials/Functions/UV/UV_ObjectScalable.uasset",
@@ -1669,20 +1685,6 @@
 			"PackageChunkId": "0125e0852ce3d3e700000001"
 		},
 		{
-			"Name": "/Engine/EngineMaterials/DefaultDiffuse",
-			"PackageChunkId": "7539f12095a3f0d100000001",
-			"BulkDataChunkIds": [
-				"7539f12095a3f0d100000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_N",
-			"PackageChunkId": "7a7173cfb4095b9f00000001",
-			"BulkDataChunkIds": [
-				"7a7173cfb4095b9f00000002"
-			]
-		},
-		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade",
 			"PackageChunkId": "6a3b7a697242e13400000001"
 		},
@@ -1777,6 +1779,20 @@
 			]
 		},
 		{
+			"Name": "/Engine/EngineMaterials/DefaultDiffuse",
+			"PackageChunkId": "7539f12095a3f0d100000001",
+			"BulkDataChunkIds": [
+				"7539f12095a3f0d100000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_N",
+			"PackageChunkId": "7a7173cfb4095b9f00000001",
+			"BulkDataChunkIds": [
+				"7a7173cfb4095b9f00000002"
+			]
+		},
+		{
 			"Name": "/Engine/EngineMeshes/Sphere",
 			"PackageChunkId": "f421d8f857b9ed0300000001"
 		},
@@ -1817,17 +1833,46 @@
 			"PackageChunkId": "be0d3889a05f194e00000001"
 		},
 		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
+			"PackageChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
+			"PackageChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Name": "/Engine/Maps/Entry_BuiltData",
+			"PackageChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/Sign",
+			"PackageChunkId": "488ea3a585ed55d300000001"
+		},
+		{
+			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
+			"PackageChunkId": "72ff6427f1042ed200000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/C_Sky_Cloud_Color",
+			"PackageChunkId": "048e6fb25437845700000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/C_Sky_Horizon_Color",
+			"PackageChunkId": "344ace582a05a9a500000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/C_Sky_Zenith_Color",
+			"PackageChunkId": "a78221ddf916516d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Images/ToonTanksCover",
+			"PackageChunkId": "394a19ed3d49830800000001"
+		},
+		{
 			"Name": "/Game/Assets/Audio/Thud_Audio",
 			"PackageChunkId": "d57f741e41f415aa00000001",
 			"BulkDataChunkIds": [
 				"d57f741e41f415aa00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Audio/Explode_Audio",
-			"PackageChunkId": "4b9f1cb311f8bb5d00000001",
-			"BulkDataChunkIds": [
-				"4b9f1cb311f8bb5d00000002"
 			]
 		},
 		{
@@ -1964,36 +2009,16 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
-			"PackageChunkId": "7819480612024b3600000001"
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
+			"PackageChunkId": "c8548e53bc64ae9400000001"
 		},
 		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
-			"PackageChunkId": "abde94c25a5272fc00000001"
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
+			"PackageChunkId": "c472a8877b0ae2f900000001"
 		},
 		{
-			"Name": "/Engine/Maps/Entry_BuiltData",
-			"PackageChunkId": "f95ade32d57ba98c00000001"
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/Sign",
-			"PackageChunkId": "488ea3a585ed55d300000001"
-		},
-		{
-			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
-			"PackageChunkId": "72ff6427f1042ed200000001"
-		},
-		{
-			"Name": "/Engine/EngineSky/C_Sky_Cloud_Color",
-			"PackageChunkId": "048e6fb25437845700000001"
-		},
-		{
-			"Name": "/Engine/EngineSky/C_Sky_Horizon_Color",
-			"PackageChunkId": "344ace582a05a9a500000001"
-		},
-		{
-			"Name": "/Engine/EngineSky/C_Sky_Zenith_Color",
-			"PackageChunkId": "a78221ddf916516d00000001"
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
+			"PackageChunkId": "2a8ace463a029fae00000001"
 		},
 		{
 			"Name": "/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
@@ -2024,20 +2049,20 @@
 			"PackageChunkId": "4762b775bfe4b22d00000001"
 		},
 		{
-			"Name": "/Paper2D/DummySprite",
-			"PackageChunkId": "7936cc24a0df034100000001"
-		},
-		{
-			"Name": "/Paper2D/DefaultSpriteMaterial",
-			"PackageChunkId": "12c2c1346a8453a600000001"
-		},
-		{
 			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
 			"PackageChunkId": "305a1ec18dd5a4be00000001"
 		},
 		{
 			"Name": "/ControlRig/M_Manip",
 			"PackageChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Name": "/Paper2D/DummySprite",
+			"PackageChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Name": "/Paper2D/DefaultSpriteMaterial",
+			"PackageChunkId": "12c2c1346a8453a600000001"
 		},
 		{
 			"Name": "/Engine/EngineFonts/Roboto",
@@ -2056,8 +2081,22 @@
 			"PackageChunkId": "51f4a9204ba994c500000001"
 		},
 		{
-			"Name": "/Game/Assets/Materials/Functions/Basic/MakeSet",
-			"PackageChunkId": "f4c59781445c557b00000001"
+			"Name": "/Game/Assets/Audio/Explode_Audio",
+			"PackageChunkId": "4b9f1cb311f8bb5d00000001",
+			"BulkDataChunkIds": [
+				"4b9f1cb311f8bb5d00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
+			"PackageChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
+			"PackageChunkId": "2d5d52b0905803e600000001",
+			"BulkDataChunkIds": [
+				"2d5d52b0905803e600000002"
+			]
 		},
 		{
 			"Name": "/Engine/EngineSky/T_Sky_Blue",
@@ -2081,27 +2120,8 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
-			"PackageChunkId": "b916d415e9289b5500000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
-			"PackageChunkId": "c8548e53bc64ae9400000001"
-		},
-		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
-			"PackageChunkId": "c472a8877b0ae2f900000001"
-		},
-		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
-			"PackageChunkId": "2a8ace463a029fae00000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
-			"PackageChunkId": "2d5d52b0905803e600000001",
-			"BulkDataChunkIds": [
-				"2d5d52b0905803e600000002"
-			]
+			"Name": "/Game/Assets/Materials/Functions/Basic/MakeSet",
+			"PackageChunkId": "f4c59781445c557b00000001"
 		},
 		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW",
@@ -2144,6 +2164,10 @@
 			"PackageChunkId": "27d7aeddb1b7c7fc00000001"
 		},
 		{
+			"Name": "/Game/Blueprints/GameMode/BP_MainMenu",
+			"PackageChunkId": "1ea1e5bcab14982300000001"
+		},
+		{
 			"Name": "/Game/Assets/Materials/M_TextureBase",
 			"PackageChunkId": "5daf07f16bab52c400000001"
 		},
@@ -2166,6 +2190,10 @@
 		{
 			"Name": "/Game/Assets/Materials/M_EmissiveGreen_Inst",
 			"PackageChunkId": "4b0202464324a30b00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Widgets/WBP_MainMenu",
+			"PackageChunkId": "8010f4f72487003400000001"
 		},
 		{
 			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale",
@@ -2518,6 +2546,10 @@
 		{
 			"Name": "/Game/Assets/Meshes/SM_Sphere",
 			"PackageChunkId": "ffe806f98fdfb77000000001"
+		},
+		{
+			"Name": "/Game/Maps/MainMenu",
+			"PackageChunkId": "c9390903946d5a9200000001"
 		},
 		{
 			"Name": "/Game/Assets/Materials/Functions/UV/UV_ObjectScalable",
