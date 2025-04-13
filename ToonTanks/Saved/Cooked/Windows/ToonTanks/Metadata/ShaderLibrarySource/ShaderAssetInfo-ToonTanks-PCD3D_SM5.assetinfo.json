@@ -203,12 +203,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D77D735B120E756C27CD3ED64A3100DFE3BAE167",
-			"Assets": [
-				"/Game/Assets/Materials/M_TextureBase"
-			]
-		},
-		{
 			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -230,6 +224,12 @@
 			"ShaderMapHash": "E9E6C9BB8C80820E8A0EDD8DCFEE711FDDF17CF1",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "D77D735B120E756C27CD3ED64A3100DFE3BAE167",
+			"Assets": [
+				"/Game/Assets/Materials/M_TextureBase"
 			]
 		},
 		{
