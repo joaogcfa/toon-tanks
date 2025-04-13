@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\projectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\toontanks\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\unrealgame\\development\\toontanks\\definitions.toontanks.h",
+            "d:\\unreal\\toon-tanks\\toontanks\\source\\toontanks\\projectile.h",
+            "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\projectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

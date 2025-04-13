@@ -1,0 +1,35 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal\\toon-tanks\\toontanks\\source\\toontanks\\projectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\toontankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "d:\\unreal\\toon-tanks\\toontanks\\source\\toontanks\\projectile.h",
+            "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\projectile.generated.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\movementcomponent.generated.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\projectilemovementcomponent.generated.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\particles\\particlesystemcomponent.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\particles\\particlesystem.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\particles\\particleperfstats.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\particlesystem.generated.h",
+            "d:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\particles\\emitter.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\emitter.generated.h",
+            "d:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\particlesystemcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

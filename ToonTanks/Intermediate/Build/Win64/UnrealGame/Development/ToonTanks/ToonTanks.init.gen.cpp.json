@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\toontanks.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\toontanks\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal\\toon-tanks\\toontanks\\intermediate\\build\\win64\\unrealgame\\development\\toontanks\\definitions.toontanks.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
